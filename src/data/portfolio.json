@@ -1,0 +1,119 @@
+{
+  "profile": {
+    "name": "Akhil Sharma",
+    "image": "src/assets/DSC00371.JPG",
+    "email": "akhil@gmail.com",
+    "socials": {
+      "twitter": "https://www.twitter.com",
+      "instagram": "https://www.instagram.com/akhil_alampally/"
+    }
+  },
+  "intro": {
+    "title": "Hey! I'm Akhil Sharma, \naspiring AI Developer",
+    "subIntro": "Let's make it big brother!"
+  },
+  "aboutMe": {
+    "content": "<ul><li value=\"1\"><span style=\"white-space: pre-wrap;\">I'm your go-to </span><b><strong style=\"white-space: pre-wrap;\">Full Stack Developer</strong></b><span style=\"white-space: pre-wrap;\">, ready to bring your dream product to life in the virtual world. </span></li><li value=\"2\"><span style=\"white-space: pre-wrap;\">From crafting sleek websites for small and medium-sized businesses </span><u><span style=\"white-space: pre-wrap;\">to empowering you by </span></u><span style=\"white-space: pre-wrap;\">building your dream tech product, I've got the skills and expertise to make it happen...</span></li></ul>"
+  },
+  "experiences": [
+    {
+      "image": "https://via.placeholder.com/40x40/FFDD00/000000",
+      "company": "Soul.ai",
+      "designation": "Technical Lead",
+      "location": "Bangalore, India",
+      "timeline": "2017 - Present",
+      "description": "I step into the shoes of a technical lead and project manager, where I bring a meticulous approach to overseeing every stage of a project. My commitment to excellence leaves no room for mediocrity, ensuring that each endeavor I embark upon is a success."
+    },
+    {
+      "image": "https://via.placeholder.com/40x40/000000/FFFFFF",
+      "company": "Company 1",
+      "designation": "Software Engineer",
+      "location": "Bangalore, India",
+      "timeline": "2015 - 2017",
+      "description": "Worked on various projects involving web development and API integration."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Skillsets",
+      "description": "I find my joy in the art and science of Full Stack Development, specializing in technologies such as",
+      "richTextInput": "<p dir=\"ltr\"><b><strong style=\"white-space: pre-wrap;\">Hello my friends</strong></b></p>"
+    },
+    {
+      "title": "Stack",
+      "description": "My go to toolkit and the tech I have grasped includes,",
+      "richTextInput": "<ul><li>JavaScript</li><li>React.js</li><li>Node.js</li><li>Express.js</li><li>CSS</li><li>Next.js</li></ul>"
+    }
+  ],
+  "projects": [
+    {
+      "image": "https://media.licdn.com/dms/image/C4E0BAQEIgW9mSoA9aA/company-logo_200_200/0/1676407694234?e=2147483647&v=beta&t=rgna_SiqTtvJvW6S3s6AWk2FWREKg_XIHKz3GIBBsOg",
+      "title": "Time tracker - taskify",
+      "link": "apple.appstore",
+      "description": "Get your all tasks centralized with all in one integral task and calendar manage..."
+    },
+    {
+      "image": "https://getcake.com/wp-content/uploads/2020/03/RedArrowUp3.jpg",
+      "title": "Performance management",
+      "link": "app.google.com",
+      "description": ""
+    },
+    {
+      "image": "https://static.javatpoint.com/tutorial/daa/images/dijkstras-algorithm6.png",
+      "title": "Path tracker - Dijkstra",
+      "link": "github.com",
+      "description": ""
+    },
+    {
+      "image": "https://memberpress.com/wp-content/uploads/2020/10/learning-management-system.jpg",
+      "title": "LMS - Data structures",
+      "link": "udemy.com",
+      "description": ""
+    },
+    {
+      "image": "path/to/profile-image.png",
+      "title": "Checkout all my projects here",
+      "link": "github.com/niraj",
+      "description": ""
+    }
+  ],
+  "blogs": [
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/4f81/0eaf/2ae9ce18c31227eb94438008da66762d?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KNZZ3SiIlW9Gbx2VhOhCoqpb-Oq8tSpC~hP~UMKYEK0WWLIJrb6yhiq5uVSCElvEhHd0wqPL5wnLzfE7xJi~ch17CKQDRDeqgiv4AZw8Q2aSHxuy9rj3r4hRLfHsX19zfk-gDHZ7bFd1bIpP9c2s4WDkWzxULyS-KfRFzFVPv-6MjEzqkBrj4WY8Oqr2cLvTQc5U2pzbafz3kNP~TT~qNS8NiFfFOXJ~PI~qoAGoq3-DUQ~UoD3wA~y9Vqv1dhS6JLoleCAB~innx1e9ioxveP3TQFvqsCfw77kZj1N0kKktDvH5ImpFID2IeWDKjv6cq8dCcMGjxMv3-Kq70hZ4kg__",
+      "title": "How to effectively crack leet code test cases with 100% accuracy",
+      "link": "medium.com"
+    },
+    {
+      "image": "https://cdn.worldvectorlogo.com/logos/react-1.svg",
+      "title": "Best react component library for beginners and experts",
+      "link": "react.com/components"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/4f81/0eaf/2ae9ce18c31227eb94438008da66762d?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KNZZ3SiIlW9Gbx2VhOhCoqpb-Oq8tSpC~hP~UMKYEK0WWLIJrb6yhiq5uVSCElvEhHd0wqPL5wnLzfE7xJi~ch17CKQDRDeqgiv4AZw8Q2aSHxuy9rj3r4hRLfHsX19zfk-gDHZ7bFd1bIpP9c2s4WDkWzxULyS-KfRFzFVPv-6MjEzqkBrj4WY8Oqr2cLvTQc5U2pzbafz3kNP~TT~qNS8NiFfFOXJ~PI~qoAGoq3-DUQ~UoD3wA~y9Vqv1dhS6JLoleCAB~innx1e9ioxveP3TQFvqsCfw77kZj1N0kKktDvH5ImpFID2IeWDKjv6cq8dCcMGjxMv3-Kq70hZ4kg__",
+      "title": "Time and space complexity? how to code more effectively",
+      "link": "medium.com"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/4f81/0eaf/2ae9ce18c31227eb94438008da66762d?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KNZZ3SiIlW9Gbx2VhOhCoqpb-Oq8tSpC~hP~UMKYEK0WWLIJrb6yhiq5uVSCElvEhHd0wqPL5wnLzfE7xJi~ch17CKQDRDeqgiv4AZw8Q2aSHxuy9rj3r4hRLfHsX19zfk-gDHZ7bFd1bIpP9c2s4WDkWzxULyS-KfRFzFVPv-6MjEzqkBrj4WY8Oqr2cLvTQc5U2pzbafz3kNP~TT~qNS8NiFfFOXJ~PI~qoAGoq3-DUQ~UoD3wA~y9Vqv1dhS6JLoleCAB~innx1e9ioxveP3TQFvqsCfw77kZj1N0kKktDvH5ImpFID2IeWDKjv6cq8dCcMGjxMv3-Kq70hZ4kg__",
+      "title": "Free table UI toolkit for your next react project",
+      "link": "github.com"
+    }
+  ],
+  "connect": {
+    "title": "Lets Connect!",
+    "description": "Nothing's better than a 1:1 chat. Lets connect and build some epic products together :)",
+    "platform": {
+      "name": "zoom",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDPdfqji2JQcCVPn4lAD5WeOO-2yMXIOtLQ&s",
+      "link": "https://google.com"
+    }
+  },
+  "sections": [
+    "about",
+    "skills",
+    "projects",
+    "experience",
+    "blogs",
+    "connect"
+  ]
+}
